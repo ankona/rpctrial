@@ -1,0 +1,7 @@
+resize_clnt.c
+resize_svc.c
+resize_xdr.c
+resize.h
+.vscode/
+client
+server
